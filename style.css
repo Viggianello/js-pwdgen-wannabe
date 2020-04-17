@@ -1,0 +1,13 @@
+.stampa{
+    display: flex;
+    justify-content: center;
+}
+
+#stampanome, #stampacolore, #stampapassword{
+    background-color: black;
+    color: white;
+}
+
+#stampacognome, #stampaanno{
+    background-color: blue;
+}
